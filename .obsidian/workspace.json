@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 422.5
   },
   "right": {
     "id": "e2e85d315849f3ff",
@@ -148,11 +148,14 @@
   },
   "active": "fa3bc037f9f01581",
   "lastOpenFiles": [
+    "Программирование/Исходники/Kafka-broker-zookeper.png",
+    "Программирование/Kafka.md",
+    "Программирование/Исходники/Kafka-producers-consumers.png",
+    "Программирование/Исходники/Kafka_topic_partitions_segments.png",
     "Программирование/Исходники/Kafka_architecture.png",
     "Программирование/Исходники/Pasted image 20240207121941.png",
     "Программирование/Исходники/Pasted image 20240207121645.png",
     "Программирование/Исходники/Pasted image 20240207121532.png",
-    "Программирование/Kafka.md",
     "Программирование/Java Core.md",
     "2024-02-10.md",
     "Программирование/Jenkins.md",
